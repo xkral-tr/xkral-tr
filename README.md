@@ -19,6 +19,9 @@ My goal is create a website that named **CodeCity**.
 #### My Coding Status
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 #### My Github Stats
