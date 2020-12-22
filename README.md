@@ -8,9 +8,7 @@ I am simple developer. I love programming so much because it is fun. I wanna bec
 - :eye: I am colorblind.
 - 👯 I’m looking to collaborate on a discord bot.
 - 📫 How to reach me: mrquartt@gmail.
-- ⚡ Fun fact: I hate everything.
 - :question: Sometimes I think I'm contradicting myself.
-- :warning: I've been thinking about committing suicide for the past month.
 
 
 **STATUS**
