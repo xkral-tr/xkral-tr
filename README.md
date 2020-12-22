@@ -26,7 +26,7 @@ No Activity tracked this Week
 
 #### My Github Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xkraltr&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xkral-tr&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### I LOVE THESE: :heart:
 
