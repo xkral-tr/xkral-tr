@@ -18,11 +18,11 @@ My goal is create a website that named **CodeCity**.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   43 hrs 40 mins  █████████████████████░░░░   83.72 % 
-JSON         3 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Markdown     2 hrs 48 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-CSS          56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Other        46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+JavaScript   39 hrs 17 mins  █████████████████████▒░░░   85.08 % 
+JSON         3 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Markdown     2 hrs 48 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Other        36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Text         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 <!--END_SECTION:waka-->
 
