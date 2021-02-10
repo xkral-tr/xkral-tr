@@ -18,11 +18,7 @@ My goal is create a website that named **CodeCity**.
 
 <!--START_SECTION:waka-->
 ```text
-C++    1 hr 11 mins    █████████████████▒░░░░░░░   69.43 % 
-C      18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.86 % 
-JSON   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Text   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-XML    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+JSON   5 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
