@@ -18,7 +18,7 @@ My goal is create a website that named **CodeCity**.
 
 <!--START_SECTION:waka-->
 ```text
-JSON   5 mins          █████████████████████████   100.00 % 
+JSON     5 mins          █████████████████████▓░░░   86.95 % 
 ```
 <!--END_SECTION:waka-->
 
